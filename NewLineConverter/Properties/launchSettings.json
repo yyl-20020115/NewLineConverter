@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NewLineConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "-os C:\\Working\\NProlog\\NProlog *.txt *.cs *.pl *.xml *.md"
+    }
+  }
+}
